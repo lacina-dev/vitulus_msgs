@@ -1,0 +1,16 @@
+#################################
+## Map edit zone message
+#################################
+
+Header      header
+string      name
+int16      area
+int16      cut_height
+int16      rpm
+string     type         #
+int16      border_paths
+int16      coverage_angle
+int16      paths_distance
+geometry_msgs/PolygonStamped    polygon
+nav_msgs/Path[] paths
+
