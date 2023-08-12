@@ -39,6 +39,7 @@ add_message_files(
   MapEditPolygonList.msg
   MapEditZone.msg
   MapEditZoneList.msg
+  MapEditMap.msg
 )
 
 generate_messages(
