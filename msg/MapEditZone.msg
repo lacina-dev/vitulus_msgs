@@ -10,7 +10,8 @@ int16      rpm
 string     type         #
 int16      border_paths
 int16      coverage_angle
-int16      paths_distance
+float64      paths_distance
+float64      simplify
 geometry_msgs/PolygonStamped    polygon
 nav_msgs/Path[] paths
 
