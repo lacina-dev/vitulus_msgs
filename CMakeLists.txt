@@ -40,6 +40,8 @@ add_message_files(
   MapEditZone.msg
   MapEditZoneList.msg
   MapEditMap.msg
+  PlannerProgram.msg
+  PlannerProgramList.msg
 )
 
 generate_messages(

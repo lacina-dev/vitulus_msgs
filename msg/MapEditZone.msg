@@ -5,6 +5,7 @@
 Header      header
 string      name
 int16      area
+int16      length
 int16      cut_height
 int16      rpm
 string     type         #
