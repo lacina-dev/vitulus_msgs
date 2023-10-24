@@ -42,6 +42,7 @@ add_message_files(
   MapEditMap.msg
   PlannerProgram.msg
   PlannerProgramList.msg
+  StringList.msg
 )
 
 generate_messages(
