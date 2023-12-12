@@ -4,6 +4,8 @@
 
 Header      header
 string      name
+string      map_name
+string      last_result
 int16      area
 int16      length
 int8        start_hour  # 0-23
