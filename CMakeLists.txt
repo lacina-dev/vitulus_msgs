@@ -43,6 +43,7 @@ add_message_files(
   PlannerProgram.msg
   PlannerProgramList.msg
   StringList.msg
+  Rtabmap_settings.msg
 )
 
 generate_messages(
