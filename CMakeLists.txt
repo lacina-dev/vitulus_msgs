@@ -45,6 +45,7 @@ add_message_files(
   StringList.msg
   Rtabmap_settings.msg
   Navi_transform.msg
+  DockProgram.msg
 )
 
 generate_messages(
